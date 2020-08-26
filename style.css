@@ -1,0 +1,33 @@
+.box-images {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+}
+
+.graph-title {
+    text-align: center;
+}
+header {
+    background: whitesmoke;
+    font-size: 30px;
+    color: teal;
+    font-family: 'Times New Roman', Times, serif;
+    font: bolder;
+}
+#main h1 {
+    text-align:center
+    
+}
+#main p {
+    margin: 50px 100px 100px;
+}
+
+#comparison h1{
+    text-align:center;
+}
+#comparison p{
+    text-align: center;
+}
+.box-bg-images h1{
+    color: teal;
+}
