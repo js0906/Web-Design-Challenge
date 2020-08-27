@@ -31,3 +31,12 @@ header {
 .box-bg-images h1{
     color: teal;
 }
+
+@media (max-width: 450 px) {
+    .container-fluid {
+        background-color: grey
+        }
+}
+.navbar-link {
+    background-color: pink;
+}
